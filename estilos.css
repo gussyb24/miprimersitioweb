@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+
+}
+
+.squred{
+    width: 400px;
+    height: 400px;
+    background: rgba(0,0,0,0.1);
+    position: absolute;
+    transform: translateX(-50%) translateY(-50%);
+    top: 50%;
+    border-radius: 50%
+}
+
+.quote, .autor{
+color:  white;
+font-style: italic;
+}
+
+.top{
+
+    margin: 60px 60px 0 60px;
+    border-bottom: 1px solid rgba(0, 0,0,0)
+}
+
+h1{
+color: white;
+text-align: center;
+
+}
